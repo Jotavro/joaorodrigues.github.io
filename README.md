@@ -18,7 +18,7 @@ Este é meu portfólio pessoal como desenvolvedor em formação. Aqui compartilh
 
 ## 🌐 Publicação
 Este site está publicado com GitHub Pages:
-🔗 [joaorodrigues.github.io](https://joaorodrigues.github.io)
+🔗 [joaorodrigues.github.io](https://jotavro.github.io)
 
 ---
 
